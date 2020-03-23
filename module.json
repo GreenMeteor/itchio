@@ -1,0 +1,11 @@
+{
+    "id": "itchio",
+    "name": "Itch.io Games",
+    "description": "This module provides a simple widget that is used to display your Itch.io game.",
+    "keywords": ["itchio","widget"],
+    "version": "1.0.0",
+    "humhub": {
+    "minVersion": "1.4"
+    },
+    "screenshots": ["resources/Screenshot_1.png", "resources/Screenshot_2.png"]
+}
